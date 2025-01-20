@@ -1,0 +1,2 @@
+Prefix plugins/BEDContig/example/
+Plugin BEDContig inputfile parameters.txt outputfile .
